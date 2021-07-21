@@ -1,0 +1,6 @@
+/Users/jameswood/RiderProjects/Demo-Doodle/bin/Debug/Demo_Doodle.exe
+/Users/jameswood/RiderProjects/Demo-Doodle/bin/Debug/Demo_Doodle.pdb
+/Users/jameswood/RiderProjects/Demo-Doodle/obj/Debug/Demo-Doodle.csproj.AssemblyReference.cache
+/Users/jameswood/RiderProjects/Demo-Doodle/obj/Debug/Demo-Doodle.csproj.CoreCompileInputs.cache
+/Users/jameswood/RiderProjects/Demo-Doodle/obj/Debug/Demo_Doodle.exe
+/Users/jameswood/RiderProjects/Demo-Doodle/obj/Debug/Demo_Doodle.pdb
